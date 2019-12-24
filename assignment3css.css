@@ -1,0 +1,145 @@
+.header{
+padding: 5px;	
+background-image:url(images/head_bg.gif);
+font-family:Calibri;
+}
+
+.header h1{
+font-size: 50px; 
+}
+
+.links{
+
+background-image:url(images/head_bg.gif);
+padding: 5px;
+border-style: solid;
+border-color: white;
+border-width: thin
+}
+
+.links a{
+background-color:#799315;
+font-family:Calibri;
+color: #ffffff;
+text-decoration:none;
+}
+
+.links a:hover{
+background-color:powderblue;
+}
+
+.head h3{
+background-color:#6997A7;
+width:100%;
+font-family:Calibri;
+font-size: 20px;
+color:#ffffff;
+float:left;
+padding: 5px ;
+margin-top:5px;
+margin-bottom:5px;
+}
+
+.dash{
+background-color:#E7F3F8;
+font-family:Calibri;
+text-decoration:none
+}
+
+.dash td{
+background-image:url(images/dashboard_li.gif);
+}
+
+.tabletemp{
+font-family:Calibri;
+background-color:#E7F3F8;
+}
+
+.tabletemp th{
+background-image:url("images/td_bg1.gif");
+text-align:left;
+padding:5px;
+}
+
+.tabletemp tr{
+background-image:url("images/td_bg2.gif");
+
+}
+
+.tabletemp td{
+padding:5px;
+}
+
+.allforms{
+font-family:Calibri;
+background-color:#E7F3F8;
+padding:5px;
+}
+
+.formtemp input{
+background-image:url("images/input_text2.gif");
+width:220px;
+}
+
+.dropdown{
+width:200px;
+}
+
+.bold{
+font-weight: 700;
+}
+
+.italic{
+font-style: italic;
+}
+
+.messages{
+line-height:1.5;
+}
+
+.red{
+margin-left:-35px;
+list-style-position: inside;
+list-style-image: url(images/red_ico.png);
+background: url(images/red_message.gif);
+color: #ae2727;
+}
+
+.white{
+margin-left:-35px;
+list-style-position: inside;
+list-style-image: url(images/white_ico.png);
+background: url(images/white_message.gif);
+}
+
+.blue{
+margin-left:-35px;
+list-style-position: inside;
+list-style-image: url(images/blue_ico.png);
+background: url(images/blue_message.gif);
+color: #2B78B0;
+}
+
+.green{
+margin-left:-35px;
+list-style-position: inside;
+list-style-image: url(images/green_ico.png);
+background: url(images/green_message.gif);
+color: #41742E;
+}
+
+.yellow{
+margin-left:-35px;
+list-style-position: inside;
+list-style-image: url(images/yellow_ico.png);
+background: url(images/yellow_message.gif);
+color: #6F622B;
+}
+
+.footer{
+color: #787E7D;
+padding:8px;
+background-image:url(images/head_bg.gif);
+border:3px solid
+
+}
